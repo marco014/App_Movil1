@@ -57,7 +57,7 @@ class Reto1Screen extends StatelessWidget {
             'Marco Darinel Ortiz Díaz', // Nombre del alumno
             '221213',                  // Matrícula del alumno
             '9191697092',               // Teléfono del alumno
-            'https://github.com/marco014/App_Movil.git',  // URL del repositorio de GitHub
+            'https://github.com/marco014/App_Movil1.git',  // URL del repositorio de GitHub
           ),
         ],
       ),
